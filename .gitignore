@@ -15,6 +15,12 @@
 # production
 /build
 
+# elm-package generated files
+elm-stuff
+
+# elm-repl generated files
+repl-temp-*
+
 # misc
 .DS_Store
 *.pem
